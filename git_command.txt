@@ -1,0 +1,20 @@
+git add.
+git checkout -b
+gir init
+git init
+git status
+status
+git add Testing.py
+git status
+git rm --cached Testing.py
+git status
+git add.
+git status
+git add. testing.py
+git add Testing.py
+git status
+git commit -m "added new files"
+git status
+rm Testing.py
+git status
+git restore "Testing.py"
