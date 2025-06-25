@@ -16,5 +16,8 @@ git status
 git commit -m "added new files"
 git status
 rm Testing.py
-git status
-git restore "Testing.py"
+git statusgit restore "Testing.py"
+git remote add origin
+git remote -v
+git branch -M main
+git push origin main
